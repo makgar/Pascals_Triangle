@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Pascals_triangle_in_Csharp
+namespace Pascals_Triangle_in_Csharp
 {
     class Program
     {
